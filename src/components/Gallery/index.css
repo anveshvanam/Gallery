@@ -1,0 +1,20 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  padding: 20px;
+}
+
+.image {
+  max-height: 70%;
+  max-width: 80%;
+}
+
+.thumbnails-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}

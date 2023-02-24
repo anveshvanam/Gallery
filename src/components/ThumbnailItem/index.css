@@ -1,0 +1,13 @@
+/* Write your code here. */
+.thumbnail-image {
+  width: 110px;
+  height: 110px;
+}
+
+.thumbnail-item {
+  margin: 5px;
+}
+
+.button {
+  cursor: pointer;
+}
